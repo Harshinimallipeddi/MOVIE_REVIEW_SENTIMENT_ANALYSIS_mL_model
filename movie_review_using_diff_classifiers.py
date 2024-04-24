@@ -1,3 +1,6 @@
+#this is basically checking different classifiers which we can use ,like decision tree,knaive bayes,random forest and adaaboost classifiers
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
