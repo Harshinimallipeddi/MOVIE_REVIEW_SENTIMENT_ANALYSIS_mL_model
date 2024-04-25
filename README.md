@@ -1,6 +1,3 @@
-
-Certainly! Here's an example of the content you can include in your README file on GitHub:
-
 Sentiment Analysis of Movie Reviews
 Overview
 This project focuses on sentiment analysis of movie reviews using machine learning techniques. The goal is to predict whether a movie review expresses positive or negative sentiment.
