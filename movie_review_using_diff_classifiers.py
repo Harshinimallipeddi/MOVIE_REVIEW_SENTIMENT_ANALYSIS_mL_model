@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+#this is basically checking different classifiers which we can use ,like decision tree,knaive bayes,random forest and adaaboost classifiers
+
+
+>>>>>>> 2e2133a456bb3c27032ac46fdbd632c9f01b2577
 #!/usr/bin/env python
 # coding: utf-8
 
